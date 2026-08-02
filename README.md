@@ -339,7 +339,7 @@ You are free to:
 
 ## 📧 Contact & Support
 
-- **Author**: [Your Name]
+- **Author**: Owen Ndeule
 - **GitHub**: [@owenndeule](https://github.com/owenndeule)
 - **Email**: [owenndeule2005@gmail.com](owenndeule2005@gmail.com)
 - **Issues**: Please report bugs via [GitHub Issues](https://github.com/owenndeule/malawi-student-budget-planner/issues)
